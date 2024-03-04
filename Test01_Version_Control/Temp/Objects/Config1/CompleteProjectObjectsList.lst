@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.11.3.51 SP"?>
+<Objects>
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="133540429663508260" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="133540429113247025"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="133540431615749772"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="133540429166220463" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="133540429148240535" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="133540429148140549"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="133540429148200485"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="133540429148230707"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="133540429153909969" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="133540429153839994"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="133540429153869949"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="133540429153899944"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="133540429159767145" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="133540429159702322"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="133540429159732575"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="133540429159757235"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="133540429166090731" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="133540429166020769"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="133540429166050721"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="133540429166080736"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Program\IEC.prg"
+    LogicalPath="Program"
+    Type="Program"
+    LastWriteTime="133540429663481410" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Program\Main.st"
+    LogicalPath="Program.Main.st"
+    Type="File"
+    LastWriteTime="133540440424067145"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Program\Types.typ"
+    LogicalPath="Program.Types.typ"
+    Type="File"
+    LastWriteTime="133540429663398900"
+    Private="true" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Logical\Program\Variables.var"
+    LogicalPath="Program.Variables.var"
+    Type="File"
+    LastWriteTime="133540429663436072"
+    Private="true" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="133540429255343013" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="133540433645639422"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="133540430328328654"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\Cpu.pkg"
+    LogicalPath="Config1.X20CP1586"
+    Type="Cpu"
+    LastWriteTime="133540439832054751" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\Cpu.sw"
+    LogicalPath="Config1.X20CP1586.Cpu.sw"
+    Type="File"
+    LastWriteTime="133540429678477840"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\Cpu.per"
+    LogicalPath="Config1.X20CP1586.Cpu.per"
+    Type="File"
+    LastWriteTime="133540429180538273"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\IoMap.iom"
+    LogicalPath="Config1.X20CP1586.IoMap.iom"
+    Type="File"
+    LastWriteTime="133540429180578234"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\PvMap.vvm"
+    LogicalPath="Config1.X20CP1586.PvMap.vvm"
+    Type="File"
+    LastWriteTime="133540429180848238"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\Connectivity\Package.pkg"
+    LogicalPath="Config1.X20CP1586.Connectivity"
+    Type="Package"
+    LastWriteTime="133540429182053825" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="Config1.X20CP1586.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="133540429182043626" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\TextSystem\Package.pkg"
+    LogicalPath="Config1.X20CP1586.TextSystem"
+    Type="Package"
+    LastWriteTime="133540429182123770" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\UnitSystem\Package.pkg"
+    LogicalPath="Config1.X20CP1586.UnitSystem"
+    Type="Package"
+    LastWriteTime="133540429182527492" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\AccessAndSecurity\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="133540429183584039" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="133540429183046336" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="133540429183003833"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="133540429183036386"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="133540429183436242" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="133540429183235620" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="133540429183171381" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="133540429183221395" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="133540429183336242" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="133540429183326260" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="133540429183376272" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="133540429183426273" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="133540429183486273" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\AccessAndSecurity\Firewall\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.Firewall"
+    Type="Package"
+    LastWriteTime="133540429183574046" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\AccessAndSecurity\Firewall\Rules.firewallRules"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.Firewall.Rules.firewallRules"
+    Type="File"
+    LastWriteTime="133540429183554018"
+    Private="false" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\mappControl\Package.pkg"
+    LogicalPath="Config1.X20CP1586.mappControl"
+    Type="Package"
+    LastWriteTime="133540429183648803" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\mappMotion\Package.pkg"
+    LogicalPath="Config1.X20CP1586.mappMotion"
+    Type="Package"
+    LastWriteTime="133540429183718801" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\mapp6D\Package.pkg"
+    LogicalPath="Config1.X20CP1586.mapp6D"
+    Type="Package"
+    LastWriteTime="133540429183785707" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\mappServices\Package.pkg"
+    LogicalPath="Config1.X20CP1586.mappServices"
+    Type="Package"
+    LastWriteTime="133540429183845669" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\mappSafety\Package.pkg"
+    LogicalPath="Config1.X20CP1586.mappSafety"
+    Type="Package"
+    LastWriteTime="133540429184008027" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\mappSafety\SafeApplication\Package.pkg"
+    LogicalPath="Config1.X20CP1586.mappSafety.SafeApplication"
+    Type="Package"
+    LastWriteTime="133540429183948080" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\mappSafety\SafeCommissioning\Package.pkg"
+    LogicalPath="Config1.X20CP1586.mappSafety.SafeCommissioning"
+    Type="Package"
+    LastWriteTime="133540429183998037" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\mappView\Package.pkg"
+    LogicalPath="Config1.X20CP1586.mappView"
+    Type="Package"
+    LastWriteTime="133540429184069111" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\mappVision\Package.pkg"
+    LogicalPath="Config1.X20CP1586.mappVision"
+    Type="Package"
+    LastWriteTime="133540429184139189" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\X20CP1586\mappCockpit\Package.pkg"
+    LogicalPath="Config1.X20CP1586.mappCockpit"
+    Type="Package"
+    LastWriteTime="133540429184306374" />
+  <Object
+    Path="C:\Users\JohnpaulNwachukwu\OneDrive - SL Controls\Documents\Automation-Studio-Files\Test01_Version_Control\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="133540430329572938"
+    Private="false" />
+</Objects>
