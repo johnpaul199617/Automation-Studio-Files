@@ -1,0 +1,7 @@
+VAR
+	BtnStart : BOOL;
+	BtnStop : BOOL;
+	BtnEmStop : BOOL;
+	MotorConveyor : BOOL;
+	MotorConveyorReverse : BOOL;
+END_VAR
