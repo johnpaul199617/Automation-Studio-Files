@@ -7,4 +7,6 @@ VAR
 	MotorConveyor : BOOL;
 	MotorConveyorReverse : BOOL;
 	MotorRStator : BOOL;
+	MotorFan : BOOL;
+	ConveyorBelt : BOOL;
 END_VAR
