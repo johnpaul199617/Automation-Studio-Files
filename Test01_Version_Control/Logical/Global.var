@@ -8,4 +8,7 @@ VAR
 	MotorConveyorReverse : BOOL;
 	MotorRotor : BOOL; 
 	MotorStator : BOOL;
+	diMotorOn : BOOL;
+	diMotorOff : BOOL;
+	diResetError : BOOL;
 END_VAR
