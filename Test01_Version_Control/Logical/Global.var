@@ -8,4 +8,5 @@ VAR
 	MotorConveyorReverse : BOOL;
 	MotorRotor : BOOL; 
 	MotorStator : BOOL;
+	doMotorOffState : BOOL;
 END_VAR
