@@ -1,5 +1,7 @@
 VAR
 	BtnStart : BOOL;
+	BtnForward : BOOL
+	BtnReverse : BOOL;
 	BtnStop : BOOL;
 	BtnEmStop : BOOL;
 	MotorConveyor : BOOL;
