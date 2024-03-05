@@ -9,4 +9,5 @@ VAR
 	MotorRStator : BOOL;
 	MotorFan : BOOL;
 	ConveyorBelt : BOOL;
+	PulleySystem : BOOL; 
 END_VAR
