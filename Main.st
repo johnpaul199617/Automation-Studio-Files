@@ -22,6 +22,7 @@ END_PROGRAM
 
 PROGRAM _EXIT
 	(* Insert code here *)
+	PulleySystem := TRUE ;
 //	IF BtnStop THEN
 	//	MotorConveyor := FALSE;
 //	END_IF
