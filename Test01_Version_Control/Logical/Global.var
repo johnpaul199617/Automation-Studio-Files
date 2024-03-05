@@ -6,4 +6,5 @@ VAR
 	BtnEmStop : BOOL;
 	MotorConveyor : BOOL;
 	MotorConveyorReverse : BOOL;
+	MotorRotor : BOOL; 
 END_VAR
